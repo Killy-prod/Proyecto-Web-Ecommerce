@@ -13,14 +13,14 @@ Proyecto 2do Parcial Ingeniería de Pruebas
 Desarrollar una plataforma web funcional para la venta de instrumentos virtuales, librerías de samples y efectos de producción musical, con carrito de compras, sistema de pedidos y envío de confirmación por correo electrónico.
 
 **Tecnologías utilizadas**
-Categoría	Tecnología
-CMS	WordPress
-Backend	PHP 8.x
-Base de datos	MySQL
-Servidor local recomendado	XAMPP / MAMP / Laragon
-Builder visual	Elementor
-Plugins clave	WooCommerce, Elementor, plugin SMTP para correos, plugin de seguridad
-Control de versiones	Git / GitHub
+  Categoría	Tecnología
+  CMS	WordPress
+  Backend	PHP 8.x
+  Base de datos	MySQL
+  Servidor local recomendado	XAMPP / MAMP / Laragon
+  Builder visual	Elementor
+  Plugins clave	WooCommerce, Elementor, plugin SMTP para correos, plugin de seguridad
+  Control de versiones	Git / GitHub
 
 Nota: Para la construcción y maquetación visual del sitio se utilizó Elementor, lo cual permitió crear secciones personalizadas, plantillas reutilizables y estilos responsivos sin perder control estructural del proyecto.
 
