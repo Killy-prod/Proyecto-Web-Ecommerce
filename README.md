@@ -59,12 +59,15 @@ No se incluye el núcleo completo de WordPress ni los plugins originales para ev
     Configurar enlaces permanentes y SMTP (opcional)
 
 🌐 Acceso al sitio
-**Tipo	URL**
-https://musicboutique1.wuaze.com/ 
-**Administrador WP**	
-https://musicboutique1.wuaze.com//wp-admin
-Usuario demo	Cesar Saucedo
-Contraseña demo	cfKGdWowYrB9
+  - **Tipo	URL**
+    https://musicboutique1.wuaze.com/ 
+  - **Administrador WP**
+    https://musicboutique1.wuaze.com//wp-admin
+  - **Usuario demo**
+    Cesar Saucedo
+  - **Contraseña demo**
+    cfKGdWowYrB9
+    
 🧪 Funcionalidades principales
 
     Catálogo de productos musicales
