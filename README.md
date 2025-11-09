@@ -61,9 +61,9 @@ No se incluye el núcleo completo de WordPress ni los plugins originales para ev
     https://musicboutique1.wuaze.com/ 
   - **Administrador WP**
     https://musicboutique1.wuaze.com//wp-admin
-  - **Usuario demo**
+  - **Usuario demo:**
     Cesar Saucedo
-  - **Contraseña demo**
+  - **Contraseña demo:**
     cfKGdWowYrB9
     
 🧪 Funcionalidades principales
