@@ -1,6 +1,13 @@
 # Proyecto-Web-Ecommerce
 Proyecto 2do Parcial Ingeniería de Pruebas
 
+👨‍💻 Integrantes del equipo
+
+• Frías Gutiérrez Mario (Diseñador)
+• Saucedo Segura César Máximo (Programador)
+• Trejo Rosas Aaron (Tester)
+• Vargas Olivera Samanta (Analista)
+
 **Objetivo del proyecto**
 
 Desarrollar una plataforma web funcional para la venta de instrumentos virtuales, librerías de samples y efectos de producción musical, con carrito de compras, sistema de pedidos y envío de confirmación por correo electrónico.
@@ -23,23 +30,20 @@ El proyecto fue desarrollado utilizando WordPress con Elementor y WooCommerce.
 WordPress es un CMS dinámico que:
 
   - Corre sobre un servidor web (Apache/Nginx)
-  
   - Requiere PHP y una base de datos MySQL
-  
   - Genera componentes en tiempo real
-  
   - Depende del constructor visual (Elementor) para la estructura del front-end
 
 Por lo anterior, no es posible subir el proyecto completo como código plano al repositorio, ya que WordPress no funciona simplemente clonando archivos; requiere su entorno completo.
 
 Este repositorio incluye todo lo necesario para revisar y replicar el proyecto:
 
-✅ Código/archivos personalizados
-✅ Exportación de contenido (.xml)
-✅ Exportación de base de datos (.sql)
-✅ Evidencia visual y técnica
-✅ Documentación funcional y técnica
-✅ Instrucciones para instalación local
+    ✅ Código/archivos personalizados
+    ✅ Exportación de contenido (.xml)
+    ✅ Exportación de base de datos (.sql)
+    ✅ Evidencia visual y técnica
+    ✅ Documentación funcional y técnica
+    ✅ Instrucciones para instalación local
 
 No se incluye el núcleo completo de WordPress ni los plugins originales para evitar archivos innecesarios y respetar licencias.
 
@@ -62,32 +66,22 @@ Instalar el tema/child theme incluido
 Configurar enlaces permanentes y SMTP (opcional)
 
 🌐 Acceso al sitio
-Tipo	URL
-Sitio público	(colocar URL si está publicado)
-Administrador WP	/wp-admin
-Usuario demo	(opcional)
-Contraseña demo	(opcional)
+**Tipo	URL**
+https://musicboutique1.wuaze.com/ 
+**Administrador WP**	
+https://musicboutique1.wuaze.com//wp-admin
+Usuario demo	Cesar Saucedo
+Contraseña demo	cfKGdWowYrB9
 🧪 Funcionalidades principales
 
     Catálogo de productos musicales
-    
     Carrito de compras
-    
     Checkout con datos del cliente
-    
     Envío automatizado de ticket por correo
-    
     Panel administrativo
-    
     Diseño responsivo realizado con Elementor
-    
     Sistema de recomendaciones básicas
-    
     Página segura (Aviso de privacidad + términos)
-
-👨‍💻 Integrantes del equipo
-
-- (Nombres del equipo)
 
 ✅ Nota final
 
