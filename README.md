@@ -3,10 +3,10 @@ Proyecto 2do Parcial Ingeniería de Pruebas
 
 👨‍💻 Integrantes del equipo
 
-• Frías Gutiérrez Mario (Diseñador)
-• Saucedo Segura César Máximo (Programador)
-• Trejo Rosas Aaron (Tester)
-• Vargas Olivera Samanta (Analista)
+  - Frías Gutiérrez Mario (Diseñador)
+  - Saucedo Segura César Máximo (Programador)
+  - Trejo Rosas Aaron (Tester)
+  - Vargas Olivera Samanta (Analista)
 
 **Objetivo del proyecto**
 
