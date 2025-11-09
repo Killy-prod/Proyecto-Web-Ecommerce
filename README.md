@@ -13,14 +13,14 @@ Proyecto 2do Parcial Ingeniería de Pruebas
 Desarrollar una plataforma web funcional para la venta de instrumentos virtuales, librerías de samples y efectos de producción musical, con carrito de compras, sistema de pedidos y envío de confirmación por correo electrónico.
 
 **Tecnologías utilizadas**
-  Categoría	Tecnología
-  CMS	WordPress
-  Backend	PHP 8.x
-  Base de datos	MySQL
-  Servidor local recomendado	XAMPP / MAMP / Laragon
-  Builder visual	Elementor
-  Plugins clave	WooCommerce, Elementor, plugin SMTP para correos, plugin de seguridad
-  Control de versiones	Git / GitHub
+  - Categoría	Tecnología
+  - CMS	WordPress
+  - Backend	PHP 8.x
+  - Base de datos	MySQL
+  - Servidor local recomendado	XAMPP / MAMP / Laragon
+  - Builder visual	Elementor
+  - Plugins clave	WooCommerce, Elementor, plugin SMTP para correos, plugin de seguridad
+  - Control de versiones	Git / GitHub
 
 Nota: Para la construcción y maquetación visual del sitio se utilizó Elementor, lo cual permitió crear secciones personalizadas, plantillas reutilizables y estilos responsivos sin perder control estructural del proyecto.
 
@@ -47,23 +47,16 @@ Este repositorio incluye todo lo necesario para revisar y replicar el proyecto:
 
 No se incluye el núcleo completo de WordPress ni los plugins originales para evitar archivos innecesarios y respetar licencias.
 
-Instrucciones para instalar localmente
+**Instrucciones para instalar localmente**
 
-Instalar servidor local (XAMPP/MAMP/Laragon)
-
-Crear base de datos en phpMyAdmin
-
-Importar sql/backup.sql
-
-Instalar WordPress
-
-Instalar Elementor y WooCommerce
-
-Importar export-wp-content.xml
-
-Instalar el tema/child theme incluido
-
-Configurar enlaces permanentes y SMTP (opcional)
+    Instalar servidor local (XAMPP/MAMP/Laragon)
+    Crear base de datos en phpMyAdmin
+    Importar sql/backup.sql
+    Instalar WordPress
+    Instalar Elementor y WooCommerce
+    Importar export-wp-content.xml
+    Instalar el tema/child theme incluido
+    Configurar enlaces permanentes y SMTP (opcional)
 
 🌐 Acceso al sitio
 **Tipo	URL**
